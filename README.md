@@ -35,13 +35,13 @@ Artificial Intelligence Department
 ---
 
 ## 📁 Repository Structure
-├── Assignment_1/
-│ └── problem1.ipynb # Linear Models
-├── Assignment_2/
-│ └── problem2.ipynb # Decision Trees & Model Evaluation
-├── Assignment_3/
-│ └── problem3.ipynb # Ensemble Models
-└── README.md # This documentation
+```
+├── Assignment_1/problem1.ipynb # Linear Models
+├── Assignment_2/problem2.ipynb # Decision Trees & Model Evaluation
+├── Assignment_3/problem3.ipynb # Ensemble Models
+└── README.md              # This documentation
+```
 
 ---
+
 
